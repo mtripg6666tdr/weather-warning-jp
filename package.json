@@ -1,6 +1,6 @@
 {
   "name": "weather-warning-jp",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "get weather advisary and warning information in Japan",
   "main": "dist/main.js",
   "scripts": {
@@ -20,5 +20,9 @@
     "@types/jsdom": "^16.2.13",
     "typedoc": "^0.22.3",
     "typescript": "^4.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtripg6666tdr/weather-warning-jp.git"
   }
 }
